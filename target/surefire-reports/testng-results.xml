@@ -2,23 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9176" started-at="2018-07-17T11:32:35Z" finished-at="2018-07-17T11:32:44Z">
+  <suite name="Suite" duration-ms="37" started-at="2018-07-19T06:38:24Z" finished-at="2018-07-19T06:38:24Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9176" started-at="2018-07-17T11:32:35Z" finished-at="2018-07-17T11:32:44Z">
+    <test name="Test" duration-ms="37" started-at="2018-07-19T06:38:24Z" finished-at="2018-07-19T06:38:24Z">
       <class name="com.test.NewTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.NewTest@2d209079]" name="beforeClass" is-config="true" duration-ms="3836" started-at="2018-07-17T17:02:35Z" finished-at="2018-07-17T17:02:39Z">
+        <test-method status="PASS" signature="FindOS()[pri:0, instance:com.test.NewTest@7e0babb1]" name="FindOS" duration-ms="10" started-at="2018-07-19T12:08:24Z" finished-at="2018-07-19T12:08:24Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verifySearchButton()[pri:0, instance:com.test.NewTest@2d209079]" name="verifySearchButton" duration-ms="4064" started-at="2018-07-17T17:02:39Z" finished-at="2018-07-17T17:02:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySearchButton -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.NewTest@2d209079]" name="afterClass" is-config="true" duration-ms="1257" started-at="2018-07-17T17:02:43Z" finished-at="2018-07-17T17:02:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
+        </test-method> <!-- FindOS -->
       </class> <!-- com.test.NewTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
