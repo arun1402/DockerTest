@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22" started-at="2018-07-20T06:56:13Z" finished-at="2018-07-20T06:56:13Z">
+  <suite name="Suite" duration-ms="30" started-at="2018-07-23T07:11:51Z" finished-at="2018-07-23T07:11:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22" started-at="2018-07-20T06:56:13Z" finished-at="2018-07-20T06:56:13Z">
+    <test name="Test" duration-ms="30" started-at="2018-07-23T07:11:51Z" finished-at="2018-07-23T07:11:51Z">
       <class name="testpkg.TestClass">
-        <test-method status="PASS" signature="f()[pri:0, instance:testpkg.TestClass@1b0375b3]" name="f" duration-ms="6" started-at="2018-07-20T12:26:13Z" finished-at="2018-07-20T12:26:13Z">
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:testpkg.TestClass@45c8e616]" name="FirstTest" duration-ms="8" started-at="2018-07-23T12:41:51Z" finished-at="2018-07-23T12:41:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- FirstTest -->
       </class> <!-- testpkg.TestClass -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
