@@ -1,7 +1,7 @@
 def machineStart(){
     def status
     try{
-        cscript = "cd jenkins;my_aws.py start"
+        cscript = "cd jenkins;python my_aws.py start"
         }        
     } catch (error) {
         throw error
