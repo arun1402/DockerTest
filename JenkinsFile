@@ -1,7 +1,8 @@
 #!groovy
 awsUtils = load("jenkins/awsutils.groovy")
-try {
-	stage("Start Machines"){
+try{
+	stage("Start Machines")
+	{
 	awsUtils.machineStart()
 	}
 	stage("Execute Tests"){
